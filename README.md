@@ -6,7 +6,7 @@ En el caso de no ser socio, el cajero te obligará a poner tus datos personales 
 
 Una vez inscrito en la lista de clientes, podrás acceder a una amplia gama de opciones como:  ver tu expediente (habiendo insertado previamente tu usuario y contraseña), ingresar pagos de matrícula atrasados, créditos matriculados, desmatriculaciones, sacar entradas para partidos del club deportivo entre otras actividades, ver tus últimos movimientos, etc
 
-## Integrantes del equipo: 
+# Integrantes del equipo: 
 
 Manuel Dégano Fernandez-Mayo 53222 .
 Marcos Calderón Jimeno 53855 .
