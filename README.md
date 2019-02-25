@@ -8,9 +8,9 @@ Una vez inscrito en la lista de clientes, podrás acceder a una amplia gama de o
 
 ## Integrantes del equipo: 
 
-Manuel Dégano Fernandez-Mayo 53222
-Marcos Calderón Jimeno 53855
-Rocío Berzal Cabetas 53674
+Manuel Dégano Fernandez-Mayo 53222 .
+Marcos Calderón Jimeno 53855 .
+Rocío Berzal Cabetas 53674 .
 
 ## Objetivos del trabajo
 Tener más habilidad a la hora de programar con DEV C++, y conseguir un programa que se pueda aplicar a nuestras vidas.
