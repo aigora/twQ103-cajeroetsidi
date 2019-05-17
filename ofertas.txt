@@ -1,0 +1,10 @@
+1  Viaje_a_Londres	120.00
+2  Cine	3.90
+3  Concierto	42.80
+4  Puenting	100.00
+5  Zoo	35.25
+6  Atracciones	28.75
+7  McDonalds	6.90
+8  Paseo_en_helicoptero	80.00
+9  Salto_base	5.00
+10  Visita_Museo	10.00
