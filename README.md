@@ -8,8 +8,8 @@ Una vez inscrito en la lista de clientes, podrás acceder a una amplia gama de o
 
 # Integrantes del equipo: 
 
-Manuel Dégano Fernandez-Mayo
-Marcos Calderón Jimeno 
+Manuel Dégano Fernandez-Mayo\n
+Marcos Calderón Jimeno\n
 Rocío Berzal Cabetas 
 
 ## Objetivos del trabajo
